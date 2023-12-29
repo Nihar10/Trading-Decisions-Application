@@ -1,4 +1,4 @@
-# stock-sentiment-analysis
+# Trading decision application 
 
 ```markdown
 # Building News Sentiment and Stock Price Performance Analysis NLP Application With Python
